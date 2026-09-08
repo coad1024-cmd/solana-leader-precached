@@ -2,3 +2,8 @@ target/
 **/target/
 **/*.rs.bk
 *.log
+
+
+# Added by cargo
+
+/target
